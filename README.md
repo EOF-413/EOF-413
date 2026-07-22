@@ -5,7 +5,7 @@
 
 </div>
 
-<div align="center">
+<div align="right">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EOF-413&layout=donut&langs_count=5&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=EOF-413&layout=donut&langs_count=5&hide_values=true&theme=radical)
 
