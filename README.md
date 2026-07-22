@@ -1,1 +1,1 @@
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=EOF-413&theme=tokyonight)](https://github.com/EOF-413)
+[![Терминал статистики GitHub](https://github-stats-terminal-style-five.vercel.app/api/stats?username=EOF-413&theme=hacker&headerStyle=mac&typingSpeed=30&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cps)](https://github.com/EOF-413)
