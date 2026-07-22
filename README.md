@@ -1,6 +1,6 @@
 <div align="right">
 
-[![codewars](https://www.codewars.com/users/EOF-413/badges/small)](https://www.codewars.com/users/EOF-413)
+[![codewars](https://www.codewars.com/users/EOF-413/badges/large)](https://www.codewars.com/users/EOF-413)
 
 </div>
 
